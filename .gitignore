@@ -1,6 +1,5 @@
 # ignore a single file
 config.py
-ETL_clean_kaggle_data.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
