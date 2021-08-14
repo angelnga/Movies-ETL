@@ -1,6 +1,11 @@
 # ignore a single file
 config.py
 
+# ignore a folder
+cleaned_data
+raw_data
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
