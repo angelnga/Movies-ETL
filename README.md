@@ -2,7 +2,7 @@
 Create an automated pipeline for Amazing Prime, a platform for streaming movies and TV shows, to update data on a daily basis for their analysis. <br>
 There are two data sources:
 - Scrape of Wikipedia for all movies released since 1990 
-- Rating data from the Movie Land's webiste 
+- Rating data from the Movie Land's webiste <br>
 The project needs to extract the data from the two sources, transform it into one clean data set, and finally load that data set into a SQL table. 
 
 ## Process
